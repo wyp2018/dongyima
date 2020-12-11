@@ -1,0 +1,20 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>二维码小demo</title>
+    <script src="js/qrious.min.js"></script>
+
+</head>
+<body>
+<img id="qrious">
+
+<script>
+    var qr = new QRious({
+        element: document.getElementById('qrious'),
+        size: 250,
+        level: 'H',
+        value: 'cecevcvrvrvrv'
+    });
+</script>
+</body>
+</html>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4aa37a9c-4ac7-4023-9665-eb8a7a688267" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/It/maven3.5.2" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jjlA81oxLk1Bsao7Ea8VLiIO8b" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+    <property name="settings.editor.splitter.proportion" value="0.26013845" />
+  </component>
+  <component name="RunManager">
+    <configuration name="GeneratorSqlmap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.senqi.GeneratorSqlmap" />
+      <module name="generatorSqlmapCustom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.senqi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GeneratorSqlmap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\senqi\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4aa37a9c-4ac7-4023-9665-eb8a7a688267" name="Default Changelist" comment="" />
+      <created>1572134875595</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572134875595</updated>
+      <workItem from="1572134888672" duration="408000" />
+      <workItem from="1604325238785" duration="1505000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="986" height="199" key="GridCell.Tab.0.bottom" timestamp="1604326785760">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="986" height="199" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1604326785760" />
+    <state width="986" height="199" key="GridCell.Tab.0.center" timestamp="1604326785760">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="986" height="199" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1604326785760" />
+    <state width="986" height="199" key="GridCell.Tab.0.left" timestamp="1604326785759">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="986" height="199" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1604326785759" />
+    <state width="986" height="199" key="GridCell.Tab.0.right" timestamp="1604326785760">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="986" height="199" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1604326785760" />
+    <state x="33" y="174" key="SettingsEditor" timestamp="1604325278124">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="33" y="174" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1604325278124" />
+  </component>
+</project>
